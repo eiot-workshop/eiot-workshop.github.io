@@ -228,6 +228,12 @@ button:focus,
     margin: 5px 0 !important;
 }
 
+.navbar-header h1 {
+    color: #ffffff;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
 @media (max-width : 768px) {
     .navbar-brand {
         width: 200px;
